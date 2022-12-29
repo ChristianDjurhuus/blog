@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Story Telling</title><link>https://ChristianDjurhuus.github.io/blog/</link><description>Recent content on Data Story Telling</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 29 Dec 2022 14:52:25 +0100</lastBuildDate><atom:link href="https://ChristianDjurhuus.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World!</title><link>https://ChristianDjurhuus.github.io/blog/posts/first-post/</link><pubDate>Thu, 29 Dec 2022 14:52:25 +0100</pubDate><guid>https://ChristianDjurhuus.github.io/blog/posts/first-post/</guid><description>&lt;p>&lt;img src="https://ChristianDjurhuus.github.io/blog/static/avatar2.png"
+loading="lazy"
+alt="Me"
+>&lt;/p>
+&lt;p>Hello, I&amp;rsquo;m Christian. I am currently studying for a master&amp;rsquo;s in Human-centered Artificial Intelligence at the Technical University of Denmark. In June this summer, I finished my bachelor&amp;rsquo;s degree in
+Artificial
+Intelligence &amp;amp; Data Science.&lt;/p>
+&lt;p>With this post, my blog begins, where I will post different stories trying to investigate and explore various topics using data science and machine learning. The purpose is to practice my communication
+skills w.r.t. presenting technical content to non-technical peers. I hope you will participate in this experiment, and any feedback would be very appreciated.&lt;/p></description></item></channel></rss>
