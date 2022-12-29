@@ -4,7 +4,7 @@ date: 2022-12-29T14:52:25+01:00
 draft: false
 ---
 
-![A picture of me](/avatar2.png)
+![Image](/posts/avatar2.png)
 
 Hello, I'm Christian. I am currently studying for a master's in Human-centered Artificial Intelligence at the Technical University of Denmark. In June this summer, I finished my bachelor's degree in 
 Artificial 
