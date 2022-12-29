@@ -13,4 +13,4 @@ Intelligence & Data Science.
 With this post, my blog begins, where I will post different stories trying to investigate and explore various topics using data science and machine learning. The purpose is to practice my communication 
 skills w.r.t. presenting technical content to non-technical peers. I hope you will participate in this experiment, and any feedback would be very appreciated.
 
-<img src="network_evolve_forcev3.mp4" type="video/mp4"/>
+<img src="network_evolve_forcev3.gif" width="1000" />
